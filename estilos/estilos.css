@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: wheat;
+}
+
+#principal{
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+#hero{
+    display: inherit;
+    border: 1px forestgreen;
+    height: 70%;
+    width: 40%;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
